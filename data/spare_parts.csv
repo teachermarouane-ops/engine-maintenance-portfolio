@@ -1,0 +1,9 @@
+part_id,part_name,stock_qty,min_stock,unit_price,parts_status
+P001,Oil Filter,10,5,45.0,OK
+P002,Air Filter,6,3,30.0,OK
+P003,Fuel Filter,6,2,55.0,OK
+P004,Engine Oil (5L),20,8,25.0,OK
+P005,Drive Belt,4,2,80.0,OK
+P006,Battery 12V,3,2,120.0,OK
+P007,Hydraulic Filter,5,3,65.0,OK
+P008,Spark Plug Set,8,4,35.0,OK
