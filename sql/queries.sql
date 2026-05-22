@@ -66,3 +66,6 @@ GROUP BY category
 ORDER BY Overdue DESC;
 
 -- 10. Engines with highest usag
+SELECT engine_id, category, Hours_Used, Days_Since_Maintenance, Status
+FROM engines_clean
+ORDER BY Hours_Used DESC;
